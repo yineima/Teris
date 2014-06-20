@@ -1,0 +1,71 @@
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\bin\Debug\Restart tetris.exe
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\bin\Debug\Restart tetris.pdb
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\bin\Debug\Interop.WMPLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\bin\Debug\AxInterop.WMPLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Interop.WMPLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.csproj.ResolveComReference.cache
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.Properties.Resources.resources
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.exe
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.pdb
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.MainForm.resources
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.set_notice.resources
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\bin\Debug\Interop.AcroPDFLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\学习\俄罗斯方块\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.helpdocument.resources
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Interop.WMPLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.csproj.ResolveComReference.cache
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.exe
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.pdb
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Restart tetris.exe
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Restart tetris.pdb
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Interop.AcroPDFLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Interop.WMPLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\bin\Debug\AxInterop.WMPLib.dll
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.helpdocument.resources
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.MainForm.resources
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.Properties.Resources.resources
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.set_notice.resources
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\原来D盘文件2\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Interop.AcroPDFLib.dll
+G:\原来D盘文件2\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Interop.WMPLib.dll
+G:\原来D盘文件2\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+G:\原来D盘文件2\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\原来D盘文件2\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.csproj.ResolveComReference.cache
+G:\原来D盘文件2\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.exe
+G:\原来D盘文件2\学习\保存的文件\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.pdb
+G:\参考资料\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Interop.WMPLib.dll
+G:\参考资料\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\参考资料\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.csproj.ResolveComReference.cache
+G:\参考资料\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.exe
+G:\参考资料\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.pdb
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Interop.WMPLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.csproj.ResolveComReference.cache
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.exe
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.pdb
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Restart tetris.exe
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Restart tetris.pdb
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Interop.AcroPDFLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\bin\Debug\Interop.WMPLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\bin\Debug\AxInterop.WMPLib.dll
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.csprojResolveAssemblyReference.cache
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.helpdocument.resources
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.MainForm.resources
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.Properties.Resources.resources
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart_tetris.set_notice.resources
+F:\工作\学习\Tetris Done\Restart tetris\Restart tetris\obj\x86\Debug\Restart tetris.csproj.GenerateResource.Cache
